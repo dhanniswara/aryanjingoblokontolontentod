@@ -84,4 +84,4 @@ Karena database-nya fresh, kemungkinan **tidak ada transaksi** yang bisa muncul 
 
 ---
 
-**Lanjutkan satu per satu, dan infokan jika ada error atau kendala di langkah tertentu!**
+**Lanjutkan satu per satu!**
