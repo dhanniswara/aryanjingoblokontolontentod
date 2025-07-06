@@ -68,12 +68,6 @@ Karena database-nya fresh, kemungkinan **tidak ada transaksi** yang bisa muncul 
 
 ---
 
-### **Jika Ada Error:**
-- Copy-paste error atau screenshot-nya ke sini.
-- Tulis step ke berapa error muncul, biar saya bantu troubleshooting.
-
----
-
 **Singkatnya:**  
 1. Docker Desktop running  
 2. `docker-compose up --build` di folder project  
